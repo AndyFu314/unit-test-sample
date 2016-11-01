@@ -13,9 +13,9 @@ namespace UnitTestSample
             return firstNumber + secondNumber;
         }
 
-        public int Subtract(int firstNumber, int secondNumber)
+        public int Subtract(int firstNum, int secondNumber)
         {
-            return firstNumber - secondNumber;
+            return firstNum - secondNumber;
         }
 
         public void SomeMethod()
