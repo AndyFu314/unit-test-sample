@@ -8,9 +8,9 @@ namespace UnitTestSample
 {
     public class Calculator:ICalculator
     {
-        public int Add(int firstNumber, int secondNumber)
+        public int Add(int firstNum, int secondNumber)
         {
-            return firstNumber + secondNumber;
+            return firstNum + secondNumber;
         }
 
         public int Subtract(int firstNum, int secondNum)
