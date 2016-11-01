@@ -1,0 +1,7 @@
+D:\practice\UnitTestSample\UnitTestSampleTests\bin\Debug\UnitTestSampleTests.dll
+D:\practice\UnitTestSample\UnitTestSampleTests\bin\Debug\UnitTestSampleTests.pdb
+D:\practice\UnitTestSample\UnitTestSampleTests\bin\Debug\UnitTestSample.dll
+D:\practice\UnitTestSample\UnitTestSampleTests\bin\Debug\UnitTestSample.pdb
+D:\practice\UnitTestSample\UnitTestSampleTests\obj\Debug\UnitTestSampleTests.csprojResolveAssemblyReference.cache
+D:\practice\UnitTestSample\UnitTestSampleTests\obj\Debug\UnitTestSampleTests.dll
+D:\practice\UnitTestSample\UnitTestSampleTests\obj\Debug\UnitTestSampleTests.pdb
