@@ -2,3 +2,4 @@ D:\practice\UnitTestSample\bin\Debug\UnitTestSample.dll
 D:\practice\UnitTestSample\bin\Debug\UnitTestSample.pdb
 D:\practice\UnitTestSample\obj\Debug\UnitTestSample.dll
 D:\practice\UnitTestSample\obj\Debug\UnitTestSample.pdb
+D:\practice\UnitTestSample\obj\Debug\UnitTestSample.csprojResolveAssemblyReference.cache
