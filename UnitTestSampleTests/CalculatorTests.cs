@@ -34,7 +34,7 @@ namespace UnitTestSample.Tests
         {
             //arrange
             Calculator calc = new Calculator();
-            expectNumber = -11;
+            expectNumber = -10;
 
             //act
             actualNumber = calc.Subtract(firstNumber, secondNumber);
