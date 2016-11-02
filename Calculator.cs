@@ -23,9 +23,9 @@ namespace UnitTestSample
             throw new Exception();
         }
 
-        public int Multiply(int firstNumber, int secondNumber)
+        public int Multiply(int firstNum, int secondNumber)
         {
-            return firstNumber * secondNumber;
+            return firstNum * secondNumber;
         }
     }
 }
